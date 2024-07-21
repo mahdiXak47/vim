@@ -1,2 +1,4 @@
-# vim
-this is a terminal based vim developed by C 
+# project-mahdixak
+
+Name : Mahdi Akbari 
+ID : 401105601
